@@ -1,0 +1,26 @@
+{
+    "name": "awesome-electron",
+    "version": "1.0.0",
+    "description": "",
+    "main": "main.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "electron",
+        "build": "npx electron-builder"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/fanqingyun/awesome-electron.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/fanqingyun/awesome-electron/issues"
+    },
+    "homepage": "https://github.com/fanqingyun/awesome-electron#readme",
+    "devDependencies": {
+        "electron": "^12.0.0",
+        "electron-builder": "^22.10.5"
+    }
+}
